@@ -5,3 +5,4 @@
 - 📫 How to reach me +91 8489681088, pradeepmanikandan84@gmail.com
 - 😄 Pronouns: Every Exit is an Entrance
 - ⚡ Fun fact: Can I Help ?...
+- 🖥️ React Native , SpringBoot, MS Sql, PowerBuilder, ReactJS
