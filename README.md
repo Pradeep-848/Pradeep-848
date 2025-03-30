@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pradeep M
 - 👀 I’m interested to do Open Projects in Mobile & Web App Development
-- 🌱 I’m currently working as a software Developer
+- 🌱 I’m currently working as a Software Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +91 8489681088, pradeepmanikandan84@gmail.com
 - 😄 Pronouns: Every Exit is an Entrance
